@@ -1,6 +1,6 @@
 # LV 1 zadatak - Osobna stranica
 
-### LINK: https://fabulous-jelly-ec9078.netlify.app/
+### LINK: https://main--shiny-cocada-be3772.netlify.app/
 
 <hr />
 
