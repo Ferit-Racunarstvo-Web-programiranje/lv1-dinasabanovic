@@ -1,6 +1,6 @@
 # LV 1 zadatak - Osobna stranica
 
-### LINK: 
+### LINK: https://strong-sprinkles-58d22b.netlify.app/
 
 <hr />
 
