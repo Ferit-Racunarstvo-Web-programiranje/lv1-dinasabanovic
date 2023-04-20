@@ -510,6 +510,9 @@ footer {
   textarea {
     max-width:100%;
   }
+  .portfolio-top {
+    flex-direction: column;
+  }
 }
 
 
